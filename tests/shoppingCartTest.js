@@ -1,3 +1,5 @@
+// REPO : https://github.com/vtakdeniz/basic-shopping-cart
+
 /* globals gauge*/
 "use strict";
 const path = require('path');
