@@ -46,7 +46,7 @@ gauge.customScreenshotWriter = async function () {
     return path.basename(screenshotFilePath);
 };
 
-step("Open Application", async () => {
+step("Go to shopping cart page", async () => {
     await goto('localhost:3000');
 });
 

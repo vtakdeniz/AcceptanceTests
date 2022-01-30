@@ -2,6 +2,6 @@
 
 
 ## Display number of items
-* Open Application
+* Go to shopping cart page
 * Add items to basket
 * Check basket
